@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.77",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/blob/main/DataBlanket.7z",
-    "packageSha256":  "6577bbb69b2ceaf5109bfb48f07816aec8911444b3de51064786118f4e299573",
-    "fileName":  "DataBlanket.7z",
-    "releaseNotes":  ""
+  "version": "1.00.00.77",
+  "packageUrl": "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/v1.00.00.77/DataBlanket.7z",
+  "packageSha256": "6577bbb69b2ceaf5109bfb48f07816aec8911444b3de51064786118f4e299573",
+  "fileName": "DataBlanket.7z",
+  "releaseNotes": ""
 }
