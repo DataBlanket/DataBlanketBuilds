@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.80",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.80/DataBlanket.7z",
-    "packageSha256":  "0e4f8c7073096ea1e0643808616f4f8c3e811212310a8e29523df38f65c92caf",
+    "version":  "1.00.00.81",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.81/DataBlanket.7z",
+    "packageSha256":  "952b99e05432fb28226ade5f34efbdc14fdf42e399464455344946d21c547c74",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.80\r\n\r\n* Version bump to test new release notes system.\r\n* Update version.\r\n* Improved notification scroll window.\r\n* Launcher tools created.\r\n* Allow map movement while drawing.\r\n* Adjust polygon free hand for 3d points to allow map movement.\r\n* User relay pin lock.\r\n* Relay pin implemented."
+    "releaseNotes":  "Data Blanket 1.00.00.81\r\n\r\n* Remove old views logic\r\n* Fix ADSB error due to old view logic"
 }
