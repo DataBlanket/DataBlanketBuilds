@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.81",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.81/DataBlanket.7z",
-    "packageSha256":  "952b99e05432fb28226ade5f34efbdc14fdf42e399464455344946d21c547c74",
+    "version":  "1.00.00.82",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.82/DataBlanket.7z",
+    "packageSha256":  "f819cdc77f608d54723578de3a20b70b715a1bfedf48337adf3705ee329b5607",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.81\r\n\r\n* Remove old views logic\r\n* Fix ADSB error due to old view logic"
+    "releaseNotes":  "Data Blanket 1.00.00.82\r\n\r\n* Drone interface color update, new dll.\r\n* Projections shouldn\u0027t block drawings.\r\n* Adsb remid timeouts.\r\n* Update line collider.\r\n* Move while drawing fingers.\r\n* Move map while drawing points."
 }
