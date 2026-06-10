@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.82",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.82/DataBlanket.7z",
-    "packageSha256":  "f819cdc77f608d54723578de3a20b70b715a1bfedf48337adf3705ee329b5607",
+    "version":  "1.00.00.83",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.83/DataBlanket.7z",
+    "packageSha256":  "b698e79cd6c66b47e10c1d25d1a8c5f34172de42e69d6bd017e234da5e084ef9",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.82\r\n\r\n* Drone interface color update, new dll.\r\n* Projections shouldn\u0027t block drawings.\r\n* Adsb remid timeouts.\r\n* Update line collider.\r\n* Move while drawing fingers.\r\n* Move map while drawing points."
+    "releaseNotes":  "Data Blanket 1.00.00.83\r\n\r\n* Adjust launcher appearance and stability\r\n* Set parameters defaults from initial capture.\r\n* Settings icons added.\r\n* Adjust mission parameter slider fill.\r\n* Adjust settings window appearance\r\n* Sanitize notifications for user readability."
 }
