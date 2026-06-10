@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.84",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.84/DataBlanket.7z",
-    "packageSha256":  "cde5e468950b3889bdedec5a95277fafe8c2c56b1cc6e312aedec57f5c6506ec",
+    "version":  "1.00.00.85",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.85/DataBlanket.7z",
+    "packageSha256":  "e9ac8c79a9dd8b401eb40f723816e21483ce76847f66f2d933e2aaff2aa87139",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.84\r\n\r\n* 3d map gestures"
+    "releaseNotes":  "Data Blanket 1.00.00.85\r\n\r\n* Update project version.\r\n* ADSB and REMID interface lock Improved.\r\n* Fixed crash with location if no gps."
 }
