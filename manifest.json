@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.85",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.85/DataBlanket.7z",
-    "packageSha256":  "e9ac8c79a9dd8b401eb40f723816e21483ce76847f66f2d933e2aaff2aa87139",
+    "version":  "1.00.00.86",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.86/DataBlanket.7z",
+    "packageSha256":  "c78d648306d598c5f3dc0075a95fbcc00bb3343b607d30e74848a24b056d5285",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.85\r\n\r\n* Update project version.\r\n* ADSB and REMID interface lock Improved.\r\n* Fixed crash with location if no gps."
+    "releaseNotes":  "Data Blanket 1.00.00.86\r\n\r\n* Update ProjectSettings.visual.\r\n* Adjust mainscene.\r\n* Merge branch \u0027codex/mission-defaults-window\u0027.\r\n* Update scene.\r\n* Additional settings controls."
 }
