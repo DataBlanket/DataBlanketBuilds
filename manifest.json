@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.86",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.86/DataBlanket.7z",
-    "packageSha256":  "c78d648306d598c5f3dc0075a95fbcc00bb3343b607d30e74848a24b056d5285",
+    "version":  "1.00.00.87",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.87/DataBlanket.7z",
+    "packageSha256":  "603239dd46759472adf86e3b5e41fa02039909900e6cc05ff881ef36ad95e632",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.86\r\n\r\n* Update ProjectSettings.visual.\r\n* Adjust mainscene.\r\n* Merge branch \u0027codex/mission-defaults-window\u0027.\r\n* Update scene.\r\n* Additional settings controls."
+    "releaseNotes":  "Data Blanket 1.00.00.87\r\n\r\n* Update ProjectSettings.visual.\r\n* IR/Vis split screen toggle Improved.\r\n* Set min line width to non zero."
 }
