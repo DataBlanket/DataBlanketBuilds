@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.87",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.87/DataBlanket.7z",
-    "packageSha256":  "603239dd46759472adf86e3b5e41fa02039909900e6cc05ff881ef36ad95e632",
+    "version":  "1.00.00.88",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.88/DataBlanket.7z",
+    "packageSha256":  "cb6cd46229a3e1387961661ef33cdf2aa1abe9b8bf9006026649e654e030db7d",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.87\r\n\r\n* Update ProjectSettings.visual.\r\n* IR/Vis split screen toggle Improved.\r\n* Set min line width to non zero."
+    "releaseNotes":  "Data Blanket 1.00.00.88\r\n\r\n* Circle button long press.\r\n* Improved comp error in proto code.\r\n* Update GcsGrpcClient.dll.\r\n* Adjust settings. adjust line width height issue Improved.\r\n* Improved pin line drawing for map movement."
 }
