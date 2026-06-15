@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.88",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.88/DataBlanket.7z",
-    "packageSha256":  "cb6cd46229a3e1387961661ef33cdf2aa1abe9b8bf9006026649e654e030db7d",
+    "version":  "1.00.00.89",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.89/DataBlanket.7z",
+    "packageSha256":  "eaa05c85df2dc6144bdd1e95c9b29e0b1b58ae28d307040d7c4b6b85e445ce4c",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.88\r\n\r\n* Circle button long press.\r\n* Improved comp error in proto code.\r\n* Update GcsGrpcClient.dll.\r\n* Adjust settings. adjust line width height issue Improved.\r\n* Improved pin line drawing for map movement."
+    "releaseNotes":  "Data Blanket 1.00.00.89\r\n\r\n* Update ProjectSettings.visual.\r\n* Polygon adjustments for alt. 3d shows mapped polygons."
 }
