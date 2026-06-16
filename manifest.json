@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.90",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.90/DataBlanket.7z",
-    "packageSha256":  "2c1cc0a9de9806deb6cd194743b892f6cdeff6fd563e62d986c1cd883e17ae93",
+    "version":  "1.00.00.91",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.91/DataBlanket.7z",
+    "packageSha256":  "92560e17207bb920b758dc000310deef62d9fbccac10c79d64e8117c60c57448",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.90\r\n\r\n* Detection pin mounting issue Improved\r\n* additional video logging\r\n* reduce telemetry logging"
+    "releaseNotes":  "Data Blanket 1.00.00.91\r\n\r\n* Unify connection comms.\r\n* Visual issue with line drawing and map movement Improved.\r\n* Line drawing from pin issue Improved.\r\n* Relay pins allowed by user\r\n* x button always estop\r\n* line strings grounded during map movement"
 }
