@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.89",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.89/DataBlanket.7z",
-    "packageSha256":  "eaa05c85df2dc6144bdd1e95c9b29e0b1b58ae28d307040d7c4b6b85e445ce4c",
+    "version":  "1.00.00.90",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.90/DataBlanket.7z",
+    "packageSha256":  "2c1cc0a9de9806deb6cd194743b892f6cdeff6fd563e62d986c1cd883e17ae93",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.89\r\n\r\n* Update ProjectSettings.visual.\r\n* Polygon adjustments for alt. 3d shows mapped polygons."
+    "releaseNotes":  "Data Blanket 1.00.00.90\r\n\r\n* Detection pin mounting issue Improved\r\n* additional video logging\r\n* reduce telemetry logging"
 }
