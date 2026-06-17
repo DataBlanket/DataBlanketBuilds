@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.91",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.91/DataBlanket.7z",
-    "packageSha256":  "92560e17207bb920b758dc000310deef62d9fbccac10c79d64e8117c60c57448",
+    "version":  "1.00.00.92",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.92/DataBlanket.7z",
+    "packageSha256":  "209fcf72064445608f7b43149704893f033d4df891629d9103ce7784f1cb204b",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.91\r\n\r\n* Unify connection comms.\r\n* Visual issue with line drawing and map movement Improved.\r\n* Line drawing from pin issue Improved.\r\n* Relay pins allowed by user\r\n* x button always estop\r\n* line strings grounded during map movement"
+    "releaseNotes":  "Data Blanket 1.00.00.92\r\n\r\n* Sync drone fade states.\r\n* Adsb visibility update.\r\n* Expanded pin logging."
 }
