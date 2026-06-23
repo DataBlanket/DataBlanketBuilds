@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.93",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.93/DataBlanket.7z",
-    "packageSha256":  "fc45f9e3e05ad63b1cf2f76c99a5b9eb4f7d190298908651f5d153ad4cdc90b3",
+    "version":  "1.00.00.94",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.94/DataBlanket.7z",
+    "packageSha256":  "bc9eb31f7ce6436aa8d7a035679624cd2fc5ab1e23ffecd561fe043abbf26974",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.93\r\n\r\n* Remove vlc.\r\n* Save general settings on close."
+    "releaseNotes":  "Data Blanket 1.00.00.94\r\n\r\n* Pin deletion issue Improved.\r\n* Minor bug fixes and performance improvement"
 }
