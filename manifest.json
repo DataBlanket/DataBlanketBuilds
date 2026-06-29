@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.96",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.96/DataBlanket.7z",
-    "packageSha256":  "cf4d6c6ee82c50c86776c406a7da71dcd302b396082c948729488e1018c3fff7",
+    "version":  "1.00.00.97",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.97/DataBlanket.7z",
+    "packageSha256":  "9be3cf893636aefe09c0a5b08d33982f88319547a8ac7b11e3f9b476423ab5c4",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.96\r\n\r\n* Fullscreen long press pin forward to server.\r\n* Update Launcher files to git"
+    "releaseNotes":  "Data Blanket 1.00.00.97\r\n\r\n* Update ProjectSettings.visual.\r\n* Improved linestring server deletion on interface"
 }
