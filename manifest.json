@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.98",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.98/DataBlanket.7z",
-    "packageSha256":  "6d4472239b9c77bf3495bcb408b101ac0492e04c53cfbc0546332387d5d93c81",
+    "version":  "1.00.00.99",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.99/DataBlanket.7z",
+    "packageSha256":  "977bcc36d05bcad2bc59fd0f6c1b1daccd034d796a9b81fd9a89d15d519b7cd1",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.98\r\n\r\n* Connection detection deletion."
+    "releaseNotes":  "Data Blanket 1.00.00.99\r\n\r\n* Seq logging interface reduction\r\n* Disconnect indicator in interface"
 }
