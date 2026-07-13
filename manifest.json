@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.00.99",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.99/DataBlanket.7z",
-    "packageSha256":  "977bcc36d05bcad2bc59fd0f6c1b1daccd034d796a9b81fd9a89d15d519b7cd1",
+    "version":  "1.00.01.00",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.00/DataBlanket.7z",
+    "packageSha256":  "58aff4f03d3813b506047771c3c36295e1116fc946d14669d3226bbfa8a8f593",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.00.99\r\n\r\n* Seq logging interface reduction\r\n* Disconnect indicator in interface"
+    "releaseNotes":  "Data Blanket 1.00.01.00\r\n\r\n* Harden map object placement.\r\n* Support http tiles.\r\n* No raycast through drone extend panel.\r\n* Offline tile render toggles.\r\n* Wait for first seq log msg until after mdns connect."
 }
