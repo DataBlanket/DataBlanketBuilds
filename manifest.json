@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.01.02",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.02/DataBlanket.7z",
-    "packageSha256":  "55e06d53562697dbbc8357003d1b5d05888839fd5534d60e08aed1b3af23997b",
+    "version":  "1.00.01.03",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.03/DataBlanket.7z",
+    "packageSha256":  "c42615b4ef3d25ba8b523b91a9693d31539099aec879b2a9ba877a8857256ac3",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.02\r\n\r\n* Detection notification setup."
+    "releaseNotes":  "Data Blanket 1.00.01.03\r\n\r\n* Harden map point drawing and pins."
 }
