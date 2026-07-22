@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.01.04",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.04/DataBlanket.7z",
-    "packageSha256":  "d01f86db7edc3de5c3aaae48f79227685d02f5028e6c148e731818688732d20c",
+    "version":  "1.00.01.05",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.05/DataBlanket.7z",
+    "packageSha256":  "9dc5fff0e539a08ef720745b80d6bf6a6fcd8c7ca896dfd3515d38a7e60fb8e1",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.04\r\n\r\n* Offline mode pull from GCS."
+    "releaseNotes":  "Data Blanket 1.00.01.05\r\n\r\n* Center notification popup."
 }
