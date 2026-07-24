@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.01.06",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.06/DataBlanket.7z",
-    "packageSha256":  "c29da0d22aa92ba5417aefc25e43020653cf2d64741049cd40f3fc574206ca6b",
+    "version":  "1.00.01.07",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.07/DataBlanket.7z",
+    "packageSha256":  "1828c1f3975d26fd608c43cd2c4fa69f3a90cc31c8e42aea97728ab697e3cafb",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.06\r\n\r\n* Radial menu controlled burn level 1.\r\n* Drop button not showing if vid closed.\r\n* Improved line deletion after map mission."
+    "releaseNotes":  "Data Blanket 1.00.01.07\r\n\r\n* Stop drop. (shut em down open up shop)"
 }
