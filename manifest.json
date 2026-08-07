@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.01.11",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.11/DataBlanket.7z",
-    "packageSha256":  "645bdfaa1efb2d4875c52ba5aef9700948282d4da0ff27d5342f09eed0e10de2",
+    "version":  "1.00.01.12",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.12/DataBlanket.7z",
+    "packageSha256":  "63df9c86cfa0b0228a5837daa85be9c24e821826557d29b7ac0b10cefd080d35",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.11\r\n\r\n* Updates to map object placement on terrain."
+    "releaseNotes":  "Data Blanket 1.00.01.12\r\n\r\n* Screen recording."
 }
