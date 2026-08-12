@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.01.12",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.12/DataBlanket.7z",
-    "packageSha256":  "63df9c86cfa0b0228a5837daa85be9c24e821826557d29b7ac0b10cefd080d35",
+    "version":  "1.00.01.13",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.13/DataBlanket.7z",
+    "packageSha256":  "fbe54cadeb14084b92655cf558a46cf4ff4d76a9763370956aad063b66342df7",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.12\r\n\r\n* Screen recording."
+    "releaseNotes":  "Data Blanket 1.00.01.13\r\n\r\n* GIS layers infra, drop detection."
 }
