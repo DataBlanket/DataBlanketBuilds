@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.01.13",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.13/DataBlanket.7z",
-    "packageSha256":  "fbe54cadeb14084b92655cf558a46cf4ff4d76a9763370956aad063b66342df7",
+    "version":  "1.00.01.14",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.14/DataBlanket.7z",
+    "packageSha256":  "19a26f92f7ff68721f54991e3d69a108b95be04bec4684c971d6c6fe29fcd2cb",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.13\r\n\r\n* GIS layers infra, drop detection."
+    "releaseNotes":  "Data Blanket 1.00.01.14\r\n\r\n* Disable layers for now.\r\n* Radial menu in video.\r\n* Gis updates, Improved crash with projection."
 }
