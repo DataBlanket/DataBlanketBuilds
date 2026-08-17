@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.01.18",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.18/DataBlanket.7z",
-    "packageSha256":  "83527c8a35692d39cb37e8689d1c40e906951127dca46c4a39a32a0f45ef044f",
+    "version":  "1.00.01.19",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.19/DataBlanket.7z",
+    "packageSha256":  "fd1e1854445a2be15afce9f2a8a33196acb3366b80e56d18c3cad99c656718a4",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.18\r\n\r\n* Duplicate polygon issue Improved."
+    "releaseNotes":  "Data Blanket 1.00.01.19\r\n\r\n* Drape server polygons, fire pins."
 }
