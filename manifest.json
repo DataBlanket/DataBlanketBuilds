@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.01.17",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.17/DataBlanket.7z",
-    "packageSha256":  "83ce609c0a289d4ecad3cbb3f666ea46a7be3ebb79ed6d976ade0ade7ffe7164",
+    "version":  "1.00.01.18",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.18/DataBlanket.7z",
+    "packageSha256":  "83527c8a35692d39cb37e8689d1c40e906951127dca46c4a39a32a0f45ef044f",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.17\r\n\r\n* Improved polygon over dead terrain."
+    "releaseNotes":  "Data Blanket 1.00.01.18\r\n\r\n* Duplicate polygon issue Improved."
 }
