@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.01.20",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.20/DataBlanket.7z",
-    "packageSha256":  "8064688103a740d398aff7b0fe0b6b117845163c4d85019420ce058561aded7f",
+    "version":  "1.00.01.21",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.21/DataBlanket.7z",
+    "packageSha256":  "e1516269a46586a4e3fd49d4a702a3cc2ee989382f404e9e97391b46b7fa7fa9",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.20\r\n\r\n* Version bump.\r\n* Radial on fullscreen video, pin drop on hidden projection."
+    "releaseNotes":  "Data Blanket 1.00.01.21\r\n\r\n* Detection rate issue Improved, detection prompt prefab.\r\n* Raycast issue full screen video drone panel Improved."
 }
