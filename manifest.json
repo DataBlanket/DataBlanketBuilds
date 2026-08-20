@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.01.21",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.21/DataBlanket.7z",
-    "packageSha256":  "e1516269a46586a4e3fd49d4a702a3cc2ee989382f404e9e97391b46b7fa7fa9",
+    "version":  "1.00.01.22",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.22/DataBlanket.7z",
+    "packageSha256":  "6cd6daa19df21f5816dd59cc9492df923f58d72afe36690326c2b8621b362463",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.21\r\n\r\n* Detection rate issue Improved, detection prompt prefab.\r\n* Raycast issue full screen video drone panel Improved."
+    "releaseNotes":  "Data Blanket 1.00.01.22\r\n\r\n* Improved poly render issue offline online tiles."
 }
