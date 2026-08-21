@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.00.01.22",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.22/DataBlanket.7z",
-    "packageSha256":  "6cd6daa19df21f5816dd59cc9492df923f58d72afe36690326c2b8621b362463",
+    "version":  "1.00.01.23",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.23/DataBlanket.7z",
+    "packageSha256":  "a175926b97616d425bab55c2663b2864a666b32178f641ac139d1c573565b30e",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.22\r\n\r\n* Improved poly render issue offline online tiles."
+    "releaseNotes":  "Data Blanket 1.00.01.23\r\n\r\n* Version bump.\r\n* GIS panel adjustments.\r\n* Polygon to any other polygon type.\r\n* Improved drone parse error, Improved mdns discovery options, Remove video from polygon selection"
 }
