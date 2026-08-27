@@ -2,31 +2,25 @@
 
 DataBlanketLauncher is a small Windows launcher/updater for the Data Blanket Unity build. It checks a hosted `manifest.json`, downloads the listed `.7z` package, verifies SHA-256, installs into a local `App` folder, and launches `Data Blanket.exe`.
 
-## Public HTTPS or SharePoint layout
+## Public GitHub layout
 
-Expected files:
+This public repository contains the update manifest and release packages:
 
 ```text
-External Sharing/
-  AppManifest/
-    manifest.json
-    PublicAppVersions/
-      DataBlanket-<version>.7z
+DataBlanketBuilds
+  manifest.json
+  Releases
+    <version>
+      DataBlanket.7z
 ```
 
-Use anonymous "Anyone with the link" direct download URLs for both files. The launcher cannot use a SharePoint folder view such as `Forms/AllItems.aspx`; `manifestUrl` must return raw JSON.
+The launcher reads the manifest without authentication from:
 
-## Private GitHub layout
+```text
+https://raw.githubusercontent.com/DataBlanket/DataBlanketBuilds/main/manifest.json
+```
 
-For a private GitHub build repository, create a fine-grained personal access token with access only to `DataBlanket/DataBlanketBuilds` and repository `Contents` set to `Read-only`.
-
-The launcher uses the GitHub REST API when `githubToken` is set:
-
-- `GET /repos/{owner}/{repo}/contents/{manifestPath}`
-- `GET /repos/{owner}/{repo}/releases/tags/{version-or-package-url-tag}`
-- `GET /repos/{owner}/{repo}/releases/assets/{asset_id}` with `Accept: application/octet-stream`
-
-The token is stored on the client machine and should be treated as recoverable. Keep it read-only and scoped only to the builds repo.
+Release packages use their public GitHub release download URLs. Do not place a GitHub token in a distributed launcher configuration.
 
 ## Launcher folder layout
 
@@ -48,7 +42,7 @@ Edit the `DataBlanketLauncher.json` beside the published launcher:
 
 ```json
 {
-  "manifestUrl": "https://datablanket.sharepoint.com/...",
+  "manifestUrl": "https://raw.githubusercontent.com/DataBlanket/DataBlanketBuilds/main/manifest.json",
   "installDirectory": "App",
   "executableName": "Data Blanket.exe",
   "githubOwner": "DataBlanket",
@@ -59,20 +53,7 @@ Edit the `DataBlanketLauncher.json` beside the published launcher:
 }
 ```
 
-For private GitHub, leave `manifestUrl` empty and set `githubToken`:
-
-```json
-{
-  "manifestUrl": "",
-  "installDirectory": "App",
-  "executableName": "Data Blanket.exe",
-  "githubOwner": "DataBlanket",
-  "githubRepo": "DataBlanketBuilds",
-  "githubManifestPath": "manifest.json",
-  "githubRef": "main",
-  "githubToken": "github_pat_..."
-}
-```
+`githubToken` must remain empty in every distributed launcher configuration.
 
 ## Manifest
 
@@ -102,15 +83,15 @@ Tools\DataBlanketLauncher\publish
 
 ## Create manifest
 
-After creating `C:\Users\Charles\Documents\GitHub\Builds\WindowsIL2CPP\DataBlanket.7z` and uploading it to SharePoint:
+After creating `C:\Users\Charles\Documents\GitHub\Builds\WindowsIL2CPP\DataBlanket.7z` and uploading it to a public GitHub release:
 
 ```powershell
 .\Tools\DataBlanketLauncher\New-AppManifest.ps1 `
   -Version "1.00.00.78" `
-  -PackageUrl "https://datablanket.sharepoint.com/..."
+  -PackageUrl "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.00.78/DataBlanket.7z"
 ```
 
-Upload the generated `manifest.json` to `External Sharing/AppManifest`.
+Commit the generated `manifest.json` to the `main` branch.
 
 ## Behavior
 

@@ -1,7 +1,7 @@
-﻿{
-    "version":  "1.00.01.25",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.25/DataBlanket.7z",
-    "packageSha256":  "3cce354afdbe61454a7c951012861aaac75b26218da3fa3c93d83b02857f9386",
-    "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.25\r\n\r\n* Inc build number.\r\n* Pip timeout, no line mission from video fullscreen pin."
+{
+  "version": "1.00.01.25",
+  "packageUrl": "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.25/DataBlanket.7z",
+  "packageSha256": "3cce354afdbe61454a7c951012861aaac75b26218da3fa3c93d83b02857f9386",
+  "fileName": "DataBlanket.7z",
+  "releaseNotes": "Data Blanket 1.00.01.25\r\n\r\n* Inc build number.\r\n* Pip timeout, no line mission from video fullscreen pin."
 }
