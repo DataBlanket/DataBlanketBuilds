@@ -1,7 +1,7 @@
 {
-    "version":  "1.00.01.27",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.27/DataBlanket.7z",
-    "packageSha256":  "f22f29898ed89accd3fc54ab3c8884ca38f8e315db8cb2f7756598d718e54439",
+    "version":  "1.00.01.28",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.28/DataBlanket.7z",
+    "packageSha256":  "d983c1b36b06baf0f995d4f758f09ca6f77b8e34acade2b9981e2955c83e221b",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.27\r\n\r\n* Version update.\r\n* Drop mission hold pip.\r\n* Improved firepin redraw flicker."
+    "releaseNotes":  "Data Blanket 1.00.01.28\r\n\r\n* Pip appearance adjustments."
 }
