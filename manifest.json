@@ -1,7 +1,7 @@
 {
-    "version":  "1.00.01.28",
-    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.28/DataBlanket.7z",
-    "packageSha256":  "d983c1b36b06baf0f995d4f758f09ca6f77b8e34acade2b9981e2955c83e221b",
+    "version":  "1.00.01.29",
+    "packageUrl":  "https://github.com/DataBlanket/DataBlanketBuilds/releases/download/1.00.01.29/DataBlanket.7z",
+    "packageSha256":  "30b39b0065254c401c39c455989722c6200af4df1ceae1dc8b60f7a877d7b258",
     "fileName":  "DataBlanket.7z",
-    "releaseNotes":  "Data Blanket 1.00.01.28\r\n\r\n* Pip appearance adjustments."
+    "releaseNotes":  "Data Blanket 1.00.01.29\r\n\r\n* Pip appearance Improved.\r\n* Notification minimum timeout."
 }
